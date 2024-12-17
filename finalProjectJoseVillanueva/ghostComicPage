@@ -1,0 +1,46 @@
+<html>
+    <head>
+    	<title>GhostComicPage</title>
+    	<style>
+    		body {
+    			background-image: url(comicBackground.jpg);
+    			background-position: center;
+    			background-repeat: no-repeat;
+    			background-size: cover;
+    			background-attachment: fixed;
+    		}
+    		h1 {
+    			color: white;
+    		}
+    		p {
+    			color: yellow;
+    		}
+
+    	</style>
+    </head>
+    <body>
+    	<center>
+
+    	<h1>THE GHOSTCOMIC</h1>
+    
+    	<p>On this website you can see a short video and story, but it has a great meaning. Below, you can see a summary about the story, then the video, and at the end the meaning of the story (you can have your own interpretations, or just have fun).</p>
+       
+    	<h1>Summary of the story:</h1>
+
+    	<p>There is a ghost sitting watching TV, but he is very discouraged and alone. He gets thirsty but realizes that he does not have a glass of water, and gets up to look for it. However, he sees a mysterious shadow that scares and disturbs him, making him back away by hitting a small table. A photo falls, due to the blow, towards the ghost which was a photo of his family, the ghost, upon realizing the photo, remembers the death of his parents, but also the good times he had with them. With this, the ghost gained courage to face the shadow by turning on the lights in the hallway, discovering that it was just his coat. In the end, the ghost returned to his chair with his glass of water looking at the photo of his parents with affection, and continues watching TV with his happiness recovered.</p>
+    	<h1>Video:</h1>
+    	<video width="720" height="640" controls>
+    		<source src="ghostComic.mp4" type="video/mp4">
+    	</video>
+       
+    	<h1>Meaning of the story:</h1>
+
+    	<p>The meaning of my story is that if you feel alone or overwhelmed by a problem, remember your loved ones and you will get the strength to overcome your difficulties, even if they are no longer with you they will always live in your heart and memories.</p>
+
+        <p>Here is the link from PEXELS where I got the background image:</p><br>
+    	<a href="https://www.pexels.com/">PEXELS</a>
+
+        </center>
+    </body>
+
+</html>
